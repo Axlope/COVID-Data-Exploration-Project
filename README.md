@@ -19,7 +19,7 @@ This GitHub project is a data exploration project created using SQL skills to ex
 
 Project Language: English
 
-Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+Skills Used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 This project may be beneficial for data analysts and data scientists looking to improve their SQL skills while working with COVID-19 data. It can also be used to enhance your skills in data analysis and visualization.
 
