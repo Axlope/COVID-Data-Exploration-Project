@@ -1,5 +1,27 @@
 # COVID Data Exploration Project
+
+Project Description:
+This GitHub project is a data exploration project created using SQL skills to explore and analyze global data during the COVID-19 pandemic. In this project, SQL skills such as joins, common table expressions (CTEs), temporary tables, window functions, aggregate functions, views, and data type conversions have been used.
+
+Project Contents:
+This project aims to explore and visualize data related to COVID-19 worldwide, and it includes the following steps:
+
+Reviewing the initial dataset and selecting only data related to continents.
+Comparing the total number of cases and total deaths during the COVID-19 pandemic in countries.
+Examining the total number of cases in countries with names similar to the United States in relation to their populations.
+Listing countries in descending order of infection rates relative to their populations.
+Listing countries in descending order of death counts relative to their populations.
+Ranking continents by the highest death counts.
+Calculating the total new cases, total new deaths, and death percentage worldwide.
+Displaying the percentage of the population vaccinated against COVID-19.
+Tracking the distribution of vaccines and calculating the percentage of vaccinated people by combining COVID-19 and vaccination data.
+The purpose of this project is to understand how the COVID-19 pandemic has affected the world and provide insights by visualizing the data. Using SQL skills for data analysis and exploration helps us gain a better understanding of the pandemic. We aim to receive feedback from the GitHub community to enhance and improve this project.
+
+Project Language: English
+
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+This project may be beneficial for data analysts and data scientists looking to improve their SQL skills while working with COVID-19 data. It can also be used to enhance your skills in data analysis and visualization.
 
 ## Covid 19 Data Exploration
 
