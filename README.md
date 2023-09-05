@@ -1,16 +1,14 @@
 # COVID Data Exploration Project
 
-/*
-Covid 19 Data Exploration 
+## Covid 19 Data Exploration 
 
-Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+### Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-*/
 
-Select *
+**Select *
 From PortfolioProject..CovidDeaths
 Where continent is not null 
-order by 3,4
+order by 3,4**
 
 -- Select Data that we are going to be starting with
 
