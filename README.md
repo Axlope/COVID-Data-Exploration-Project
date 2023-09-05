@@ -17,9 +17,9 @@ This GitHub project is a data exploration project created using SQL skills to ex
 - Tracking the distribution of vaccines and calculating the percentage of vaccinated people by combining COVID-19 and vaccination data.
 - The purpose of this project is to understand how the COVID-19 pandemic has affected the world and provide insights by visualizing the data. Using SQL skills for data analysis and exploration helps us gain a better understanding of the pandemic. We aim to receive feedback from the GitHub community to enhance and improve this project.
 
-## Project Language: English
+Project Language: English
 
-## Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 This project may be beneficial for data analysts and data scientists looking to improve their SQL skills while working with COVID-19 data. It can also be used to enhance your skills in data analysis and visualization.
 
